@@ -19,4 +19,4 @@ function operationsCalculator(number1,number2){
 let a
 let b;
  
-operationsCalculator(5,5)
+operationsCalculator(0,9)
